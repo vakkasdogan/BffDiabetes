@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BffDiabetes</string>
+    <string name="message">Anasayfa</string>
+    <string name="chat">BffDiabetes Hakkında</string>
+    <string name="alarm">Çalar Saat </string>
+    <string name="profile">Güncel Durum</string>
+    <string name="predict">Tahmin Durumu</string>
+    <string name="communicate">İletişim</string>
+    <string name="share">Paylaş</string>
+    <string name="send">Takip Edin</string>
+    <string name="email">Bilgi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="next_page">gelecek sayfa</string>
+    <string name="home" >Anasayfa</string>
+    <string name="aboutus" >Diğer Uygulamalarımız</string>
+    <string name="inform" >Şuanki kan şekeri değeriniz tehlikeli gözüküyor. Lütfen ilaçlarınızı alınız.</string>
+
+    <string name="anabaslik">Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high.
+        Blood glucose is your main source of energy and comes from the food you eat.
+        Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
+        Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well.
+        Glucose then stays in your blood and doesn’t reach your cells.</string>
+    <string name="current_state">Güncel Durum</string>
+    <string name="alarmbutonu">alarm</string>
+    <string name="graphical_view">GRAFİKSEL GÖRÜNÜM</string>
+    <string name="blood_glucose_real_graph">Gerçek Glukoz Değeri Grafiği</string>
+    <string name="blood_glucose_prediction_graph">Tahmin Glukoz Değeri Grafiği</string>
+    <string name="sign_in">Oturum Aç</string>
+    <string name="enter_email" tools:ignore="DuplicateDefinition">Email Giriniz</string>
+    <string name="enter_password" tools:ignore="DuplicateDefinition">Şifre Giriniz</string>
+    <string name="log_n">Kullanıcı Girişi</string>
+    <string name="create_new_account">Yeni Hesap Oluştur</string>
+    <string name="member">Hesabım Var</string>
+    <string name="create_new_account1">YENİ HESAP OLUŞTUR</string>
+    <string name="no_alarm_set">ALARM KURULMADI</string>
+    <string name="open_t_me_p_cker">Alarm Kurun</string>
+    <string name="cancel_alarm">Alarm İptal Et</string>
+    <string name="predicted_state">Tahmin Durumu</string>
+    <string name="create_new_account2">Yeni Hesap Oluştur</string>
+    <string name="enter_username">Kullanıcı Adınızı Giriniz</string>
+    <string name="enter_email1">Email Giriniz</string>
+    <string name="enter_password1">Şifre Giriniz</string>
+    <string name="create_account">Hesap Oluştur</string>
+    <string name="log_n_w_th_your_account">Hesabınızla Oturum Açınız</string>
+    <string name="bff">#Bff</string>
+    <string name="current">GÜNCEL</string>
+    <string name="predicted">TAHMİN</string>
+    <string name="prediction_flow_chart">Tahmin Akış Diyagramı</string>
+    <string name="deta_led_informat_on">Detaylı Bilgi</string>
+    <string name="what_is_the_bffdiabetes_app">BffDiabetes App Nedir?</string>
+    <string name="diabetes_yazı">Ölümcül hastalığın ortaya çıkmasına neden olan yaygın bir hastalıktır.\n\n Hiperglisemi (yüksek kan şekeri) ve hipoglisemi (düşük kan şekeri), insan vücudunda arızaya neden olabileceğinden diyabet için kritik aşamalardır. \n\n Bu çalışmada, diyabet hastalarının glikoz seviyesi kritik aşamalara ulaşmadan harekete geçmesine izin vermek için bir sonraki seferde kan glikoz tahmini için tekrarlayan bir sinir ağı (RNN) kullanılmasını öneriyoruz.\n\n Önerilen RNN, tahmin doğruluğunu artırmak için iki tam katmanlı iki ardışık Uzun Kısa Süreli Bellek modeli içerir. Bu ağ daha sonra Bluetooth aracılığıyla sensörlerden kan şekerini okuyabilen özel tasarım Android uygulamamızla entegre edildi.\n\n Uygulama, hastanın bir sonraki glikoz seviyesini tahmin etmek için kan şekeri seviyesini bir bulut sistemi aracılığıyla sunucuya gönderir.\n\n Tahmin sonucu kanın olup olmadığını değerlendirmek için bulut sistemi aracılığıyla Android uygulamasına geri döner glikoz seviyesi kritik aşamalara ulaşma eğilimindedir. Bu eğilim tespit edilirse, uygulama hastayı gerekli önlemler için uyarır. Diyabet hastalarından toplanan gerçek veriler, önerilen ağı eğitmek için kullanıldı ve deneysel sonuçlar, bir sonraki zaman adımına yönelik tahminin,% 95.6 doğruluğa karşılık gelen 3.72 mg/dl den daha düşük bir hatayla tahmin edilebileceğini gösteriyor.\n\n Ayrıca, geleneksel bir sinir ağı ile bir karşılaştırma yapılmış ve önerilen ağ doğruluk açısından daha iyi performans göstermiştir.</string>
+    <string name="what_is_diabetes">Diyabet Nedir?</string>
+    <string name="whatisthediabates">Diyabet, kan şekeri de denilen kan şekeri çok yüksek olduğunda ortaya çıkan bir hastalıktır. \n\n Kan glikozu ana enerji kaynağınızdır ve yediğiniz yiyeceklerden gelir. Pankreas tarafından üretilen bir hormon olan insülin, yiyeceklerden elde edilen glikozun hücrelerinize girmesine yardımcı olur. \n\n Bazen vücudunuz yeterli veya hiç insülin üretmez veya insülini iyi kullanmaz. Glikoz daha sonra kanınızda kalır ve hücrelerinize ulaşmaz.</string>
+    <string name="whatarethetypes">Diyabet Çeşitleri Nelerdir?</string>
+    <string name="themosttypes">The most common types of diabetes are type 1, type 2, and gestational diabetes.</string>
+    <string name="type_1_diabetes">Type 1 diyabet</string>
+    <string name="type1yazı">Tip 1 diyabetiniz varsa, vücudunuz insülin yapmaz. Bağışıklık sisteminiz pankreasınızdaki insülin yapan hücrelere saldırır ve tahrip eder. Tip 1 diyabet genellikle çocuklarda ve genç erişkinlerde teşhis edilir, ancak her yaşta ortaya çıkabilir. Tip 1 diyabetli insanların hayatta kalmak için her gün insülin almaları gerekir.</string>
+    <string name="type_2_diabetes">Type 2 diyabet</string>
+    <string name="type2yazı">Tip 2 diyabetiniz varsa, vücudunuz insülini iyi yapmaz veya kullanmaz. Çocukluk döneminde bile her yaşta tip 2 diyabet geliştirebilirsiniz. Bununla birlikte, bu tip diyabet en sık orta yaşlı ve yaşlı insanlarda görülür. Tip 2 en yaygın diyabet türüdür.</string>
+    <string name="how_common_is_diabetes">Diyabetin Yaygınlığı Nedir?</string>
+    <string name="commondiabetes">2015 itibarıyla Amerika Birleşik Devletlerinde 30,3 milyon kişi veya nüfusun yüzde 9,4ü diyabet hastasıydı. 4 kişiden 1inden fazlası hastalığa sahip olduklarını bilmiyordu. Diyabet, 65 yaşın üzerindeki 4 kişiden 1ini etkiler. Yetişkinlerde vakaların yaklaşık yüzde 90–95i tip 2 diyabettir.</string>
+    <string name="what_are_the_symptoms_of_diabetes">Diyabet Hasatalığının Septomları Nelerdir?</string>
+    <string name="syptomps">Diyabet belirtileri şunlardır: \n\n artan susuzluk ve idrara çıkma \n\n artan açlık \n\n yorgunluk \n\n bulanık görme \n\n ayaklarda veya ellerde uyuşma veya karıncalanma \n\n yaralar iyileş \n\n açıklanamayan kilo kaybı \n\n Tip 1 diyabet belirtileri birkaç hafta içinde hızlı bir şekilde başlayabilir. Tip 2 diyabet belirtileri genellikle - birkaç yıl boyunca - yavaş gelişir ve o kadar hafif olabilir ki onları fark etmeyebilirsiniz. Tip 2 diyabetli birçok insanda semptom yoktur. Bazı insanlar, bulanık görme veya kalp rahatsızlığı gibi diyabetle ilgili sağlık sorunları olana kadar hastalığa sahip olduklarını öğrenmezler.</string>
+    <string name="page_under_construction">Sayfa Yapım Aşamasındadır.</string>
+    <string name="bffdiabetes">BffDiabetes</string>
+    <string name="vkksdgn2_gmail_com">vkksdgn2@gmail.com</string>
+    <string name="dangerous">\n Şuanki kan şekeri değeriniz tehlikeli görünüyor.\n Lütfen ilaçlarınızı alınız…\n\n</string>
+    <string name="increasing">\n Şuanki kan şekeri değeriniz artıyor görünüyor.\n Lütfen dikkatli olunuz…\n\n</string>
+    <string name="dereasing">\n Şuanki kan şekeri değeriniz azalıyor görünüyor.\n Lütfen dikkatli olunuz…\n\n</string>
+    <string name="normal">NORMAL</string>
+    <string name="normal_yazi">\n Şuanki kan şekeri değeriniz normal görünüyor.\n\n</string>
+    <string name="dangerosly">Tehlikeli</string>
+    <string name="becareful">Dikkatli Olun</string>
+    <string name="buyukbaslik">Büyük Başlık</string>
+    <string name="ozet">Özet Yazı</string>
+    <string name="diabetes">DİYABET</string>
+    <string name="errror">HATA VAR</string>
+    <string name="succesfull">KAYIT BAŞARILI...</string>
+    <string name="login_bar">OTURUM AÇ</string>
+    <string name="email_field">Email alanı boş kalamaz!</string>
+    <string name="password_field">Şifre alanı boş kalamaz!</string>
+    <string name="CREATE_BAR">HESAP OLUŞTUR</string>
+    <string name="glucose_prediction">tahmini glukoz</string>
+    <string name="glucose_real">gerçek glukoz</string>
+    <string name="butonisclicked">Butona tıklanıldı</string>
+    <string name="news">Diabetes.org</string>
+    <string name="change_language">Dil Değiştirme</string>
+
+
+    <string name="hint_name">Ad</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Şifre</string>
+    <string name="hint_confirm_password">Şifre Tekrarla</string>
+    <string name="text_login">Giriş</string>
+    <string name="text_register">Kayıt Ol</string>
+    <string name="error_message_name">Ful Adı Giriniz</string>
+    <string name="error_message_email">Email Giriniz</string>
+    <string name="error_message_age">Yaş Giriniz</string>
+    <string name="error_message_password">Şifre Giriniz</string>
+    <string name="success_message">Kayıt Başarılı</string>
+    <string name="text_not_member">Hesabınız var mı?Yeni hesap oluştur</string>
+    <string name="text_already_member">Zaten üyeyim? Giriş</string>
+    <string name="error_email_exists">Email Zaten Var</string>
+    <string name="error_password_match">Şifre Eşleşmedi</string>
+    <string name="error_valid_email_password">Hatalı Email ya da Şifre</string>
+    <string name="text_member">Zaten Üyeyim? Giriş</string>
+
+
+
+    <string name="forgot_password">Şİfremi Unuttum?</string>
+    <string name="no_cardetails">Hatırlatıcınızı oluşturmaya başlamak için aşağıdaki düğmeyi tıklayın!</string>
+    <string name="title_activity_add_reminder">Hatırlatma Ekle</string>
+    <string name="title_activity_edit_reminder">Hatırlatma Düzenle</string>
+    <string name="title_activity_licenses">Lisanslar</string>
+
+    <string name="add_reminder">Hatırlatma</string>
+    <string name="details">Detaylar</string>
+    <string name="date">Tarih</string>
+    <string name="time">Zaman</string>
+    <string name="repeat">Tekrar</string>
+    <string name="repeat_off">Kapalı</string>
+    <string name="repeat_no">Tekrar Aralığı </string>
+    <string name="repeat_type">Tekrarlama Çeşitleri</string>
+
+    <string name="action_discard_reminder">Hatırlatma Çıkar</string>
+    <string name="action_save_reminder">Hatırlatma Kaydet</string>
+
+    <string name="editor_activity_title_new_reminder">Hatırlatma Detayları Ekle</string>
+    <string name="editor_activity_title_edit_reminder">Hatırlatma Düzenle</string>
+    <string name="unsaved_changes_dialog_msg">Değişikleri çıkarmak mı istiyorsunuz?</string>
+    <string name="discard">Çıkar</string>
+
+    <string name="keep_editing">Düzenle</string>
+    <string name="delete_dialog_msg">Hatırlatma Sil ?</string>
+
+    <string name="delete">Sil</string>
+
+    <string name="cancel">İptal</string>
+    <string name="editor_delete_reminder_successful">Hatırlatma silindi</string>
+
+    <string name="editor_delete_reminder_failed">Hatırlatma silinirken hata oluştu</string>
+
+    <string name="editor_insert_reminder_successful">Hatırlatma Kaydedildi</string>
+
+    <string name="editor_insert_reminder_failed">Kayıt edilirken hata oluştu</string>
+
+    <string name="editor_update_reminder_successful">Hatırlatma Yüklendi</string>
+
+    <string name="editor_update_reminder_failed">Hatırlatma yüklenirken hata oluştu</string>
+
+    <string name="reminder_title">Alarm Hatırlatıcı</string>
+    <string name="language">Dil</string>
+    <string name="logout">Oturumu Kapat</string>
+
+
+</resources>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gainsboro"
+    tools:context=".WelcomeActivity">
+<!--    <ImageView-->
+<!--        android:id="@+id/text_top"-->
+<!--        android:layout_width="428dp"-->
+<!--        android:layout_height="197dp"-->
+<!--        android:layout_marginLeft="4dp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:gravity="center"-->
+<!--        android:src="@drawable/toplar"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="50sp"-->
+<!--        android:textStyle="bold" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView"-->
+<!--        android:layout_width="182dp"-->
+<!--        android:layout_height="162dp"-->
+<!--        android:layout_marginLeft="14dp"-->
+<!--        android:layout_marginTop="58dp"-->
+<!--        android:gravity="center"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="50sp"-->
+<!--        android:textStyle="bold" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView_1"-->
+<!--        android:layout_width="182dp"-->
+<!--        android:layout_height="164dp"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_marginTop="58dp"-->
+<!--        android:layout_marginRight="11dp"-->
+<!--        android:gravity="center"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="50sp"-->
+<!--        android:textStyle="bold" />-->
+
+    <TextView
+        android:id="@+id/current"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:paddingLeft="14dp"
+        android:text="@string/current"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/predicted"
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="21dp"
+        android:gravity="center"
+        android:paddingStart="25dp"
+        android:text="@string/predicted"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+    <!--    <ImageView-->
+<!--        android:id="@+id/ilkresim"-->
+<!--        android:layout_width="136dp"-->
+<!--        android:layout_height="89dp"-->
+<!--        android:layout_below="@+id/predictionFlow"-->
+<!--        android:layout_marginLeft="30dp"-->
+<!--        android:layout_marginTop="315dp"-->
+<!--        android:src="@drawable/outline_filter_1_black_48dp" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/ikinciresim"-->
+<!--        android:layout_width="69dp"-->
+<!--        android:layout_height="41dp"-->
+<!--        android:layout_below="@+id/predictionFlow"-->
+<!--        android:layout_marginLeft="110dp"-->
+<!--        android:layout_marginTop="190dp"-->
+<!--        android:src="@drawable/outline_filter_2_black_24dp" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/thirdresim"-->
+<!--        android:layout_width="20dp"-->
+<!--        android:layout_height="28dp"-->
+<!--        android:layout_below="@+id/predictionFlow"-->
+<!--        android:layout_marginLeft="160dp"-->
+<!--        android:layout_marginTop="127dp"-->
+<!--        android:src="@drawable/outline_filter_3_black_18dp" />-->
+
+
+    <TextView
+        android:id="@+id/predictionFlow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/progres_barr"
+        android:layout_marginTop="-40dp"
+        android:gravity="center"
+        android:text="@string/prediction_flow_chart"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/altinucgen"
+        android:layout_width="match_parent"
+        android:layout_height="437dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="52dp"
+        android:src="@drawable/yol" />
+
+    <TextView
+        android:id="@+id/writeData"
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/progres_barr"
+        android:layout_marginTop="-158dp"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="44sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/writeData_1"
+        android:layout_width="183dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/progres_barr"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginTop="-179dp"
+        android:layout_toRightOf="@+id/writeData"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="44sp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/progres_barr"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="204dp"
+        android:layout_height="270dp"
+        android:layout_below="@id/current"
+        android:layout_marginTop="-45dp"
+        android:background="@drawable/circle_shape"
+        android:indeterminate="false"
+        android:indeterminateDrawable="@drawable/pb_drawable"
+        android:max="300"
+        android:min="0"
+        android:padding="5dp"
+        android:progressDrawable="@drawable/circular" />
+
+    <ProgressBar
+        android:id="@+id/progres_barr_1"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="231dp"
+        android:layout_height="277dp"
+        android:layout_below="@id/current"
+        android:layout_marginLeft="-11dp"
+        android:layout_marginTop="-48dp"
+        android:layout_toRightOf="@+id/progres_barr"
+        android:background="@drawable/circle_shape"
+        android:indeterminate="false"
+        android:indeterminateDrawable="@drawable/pb_drawable"
+        android:max="300"
+        android:min="0"
+        android:padding="0dp"
+        android:progressDrawable="@drawable/circular" />
+
+    <TextView
+        android:id="@+id/firstucgen"
+        android:layout_width="159dp"
+        android:layout_height="112dp"
+        android:layout_below="@id/progres_barr"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="258dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/seconducgen"
+        android:layout_width="161dp"
+        android:layout_height="112dp"
+        android:layout_below="@id/progres_barr"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="93dp"
+        android:layout_marginBottom="160dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/thirdducgen"
+        android:layout_width="119dp"
+        android:layout_height="64dp"
+        android:layout_below="@id/progres_barr"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="160dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/detail_btn"
+        android:layout_width="106dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/altinucgen"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="-60dp"
+        android:background="@drawable/buton_ok"
+        android:textColor="@color/White"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

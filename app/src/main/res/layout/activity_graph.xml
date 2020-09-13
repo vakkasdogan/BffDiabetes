@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gainsboro"
+    android:padding="5dp"
+    tools:context=".GraphViewActivity">
+
+    <TextView
+        android:id="@+id/graphview_real"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:gravity="center"
+        android:text="@string/graphical_view"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/play_circle"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/lineChart_real"
+        android:layout_marginLeft="330dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/mybuton2"
+        android:onClick="imagebutton"
+        android:src="@drawable/twotone_play_circle_filled_black_24dp" />
+
+    <ImageButton
+        android:id="@+id/play_circle_1"
+        android:layout_width="77dp"
+        android:layout_height="67dp"
+        android:layout_below="@+id/lineChart_predicted"
+        android:layout_marginLeft="330dp"
+        android:layout_marginTop="-18dp"
+        android:background="@drawable/mybutton"
+        android:onClick="imagebutton_1"
+        android:src="@drawable/twotone_play_circle_filled_black_24dp" />
+
+    <TextView
+        android:id="@+id/graphview_real_textview"
+        android:layout_width="401dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/graphview_real"
+        android:paddingLeft="10dp"
+        android:text="@string/blood_glucose_real_graph"
+        android:textColor="@color/colorPrimary"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lineChart_real"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/graphview_real_textview"
+        android:layout_marginTop="0dp"
+        android:background="@color/Gainsboro" />
+
+    <TextView
+        android:id="@+id/graphview_predicted"
+        android:layout_width="427dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/play_circle"
+        android:gravity="start"
+        android:paddingLeft="10dp"
+        android:text="@string/blood_glucose_prediction_graph"
+        android:textColor="@color/colorPrimary"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lineChart_predicted"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_below="@+id/graphview_predicted" />
+
+</RelativeLayout>

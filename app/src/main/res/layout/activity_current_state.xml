@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gainsboro"
+    tools:context=".CurrentStateActivity">
+
+    <TextView
+        android:id="@+id/current_textview"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="@string/current_state"
+        android:textColor="@color/colorPrimary"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/current_text_write"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_below="@+id/current_textview"
+        android:gravity="center"
+        android:onClick="sendOnChannel"
+        android:textColor="@color/DarkRed"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        tools:ignore="OnClick" />
+
+    <TextView
+        android:id="@+id/state"
+        android:layout_width="139dp"
+        android:layout_height="116dp"
+        android:layout_below="@+id/current_text_write"
+        android:gravity="center"
+        android:paddingLeft="10dp" />
+
+<!--    <Button-->
+<!--        android:id="@+id/notification"-->
+<!--        android:layout_width="62dp"-->
+<!--        android:layout_height="89dp"-->
+<!--        android:layout_below="@+id/state"-->
+<!--        android:onClick="sendOnChannel1"-->
+<!--        android:text="notf"-->
+<!--        tools:ignore="OnClick" />-->
+
+    <TextView
+        android:id="@+id/state_text"
+        android:layout_width="305dp"
+        android:layout_height="113dp"
+        android:layout_below="@+id/current_text_write"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:textColor="@color/Green"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tips"
+        android:layout_width="295dp"
+        android:layout_height="235dp"
+        android:layout_below="@+id/state"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="11dp"
+        android:background="@color/Gainsboro"
+        android:gravity="center"
+        android:paddingLeft="40dp" />
+
+    <TextView
+        android:id="@+id/mesaj"
+        android:layout_width="370dp"
+        android:layout_height="148dp"
+        android:layout_below="@+id/tips"
+        android:layout_marginLeft="25dp"
+        android:gravity="center"
+        android:textColor="@color/Green"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/alarm_buton"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/mesaj"
+        android:layout_marginBottom="-100dp"
+        android:onClick="alarm_btn"
+        android:text="@string/alarmbutonu"
+        android:textSize="20sp"
+        android:textColor="@color/White"
+        android:background="@drawable/mybuton2"
+        android:textStyle="bold"
+        tools:ignore="OnClick" />
+
+
+
+</RelativeLayout>

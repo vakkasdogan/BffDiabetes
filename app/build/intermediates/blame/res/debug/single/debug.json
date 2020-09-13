@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_diab1_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_diab1_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treatment.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\treatment.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirmpassword.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_confirmpassword.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_dropshadow.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\toolbar_dropshadow.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_yol.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_yol.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_yol_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_yol_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_import.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_import.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normal.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\normal.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twotone_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\twotone_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_forward_5_black_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_forward_5_black_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_diab1.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_diab1.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_message_sms_round.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\message_sms_round.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_filter_1_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_filter_1_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_message_sms.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\message_sms.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_message_sms.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\message_sms.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_subject_grey600_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_subject_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_diab1.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diab1.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_add_reminder.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\menu\\menu_add_reminder.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_diab_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diab_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_diab_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diab_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_alarm.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_main_alarm.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_diab_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_diab_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_unfold_more_grey600_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_unfold_more_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_access_time_grey600_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_access_time_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_diab1.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_diab1.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_diab1_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_diab1_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgotpassword.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegetables.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\vegetables.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_message_sms.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\message_sms.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diabetes_resim.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\diabetes_resim.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insta.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\insta.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_diab_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_diab_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_diab1_background.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_diab1_background.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_diab1_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diab1_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellowsurat.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\yellowsurat.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_diab1_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_diab1_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buton_ok.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\buton_ok.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_login.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\login.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_arrow_downward_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_arrow_downward_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_diab1.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_diab1.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_filter_2_black_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_filter_2_black_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_diab1_round.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_diab1_round.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_current_state.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_current_state.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toplar.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\toplar.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_yol_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_yol_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_diabetes.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\about_diabetes.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_diab1_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_diab1_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_forward_10_black_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_forward_10_black_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hyper.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\hyper.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_yol_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_yol_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_diab_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_diab_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_diab1_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_diab1_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_message_sms_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\message_sms_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_yol_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_yol_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_yol_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_yol_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_diab.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_diab.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_signup.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\signup.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mybuton2.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\mybuton2.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_logo.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_badsurat.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\badsurat.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_arrow_upward_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_arrow_upward_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_altinn.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\altinn.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_diab_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_diab_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentabout_us.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragmentabout_us.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_message_sms.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\message_sms.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_alarm_items.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\alarm_items.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_diab_background.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_diab_background.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_1.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_register_1.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smilesurat.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\smilesurat.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_yol_round.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_yol_round.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pb_drawable.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\pb_drawable.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\circular.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_diab1_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_diab1_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_reminder.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_reminder.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_yol_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_yol_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_message_sms.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\message_sms.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_predict_state.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_predict_state.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_diab.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_diab.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_message_sms_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\message_sms_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_diab_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_diab_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diablogo.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\diablogo.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newlogo.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\newlogo.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alarm_on_white_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_alarm_on_white_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_diab1_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diab1_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_yol.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_yol.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next_.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_skip_next_.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_diab.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diab.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_diab.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_diab.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_diab1_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_diab1_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hypo.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\hypo.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twotone_warning_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\twotone_warning_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twotone_arrow_forward_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\twotone_arrow_forward_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_white_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_present.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_present.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_yol.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_yol.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_alert.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_add_alert.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_grey600_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_sync_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_diab_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_diab_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_face.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\face.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_app.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\actionbar_app.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_alert_black_24dp.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_add_alert_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_yol_background.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_yol_background.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type_1.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\type_1.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_filter_3_black_18dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_filter_3_black_18dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_shape.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greensurat.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\greensurat.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_message_sms_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\message_sms_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_diab1.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_diab1.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_diab_round.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_diab_round.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_yol_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_yol_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_sms_background.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\message_sms_background.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_diab1.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_diab1.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diabetes.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\diabetes.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_view_day_grey600_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_view_day_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_angry.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\angry.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mybutton.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\mybutton.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_diab.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_diab.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_message_sms.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\message_sms.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_yol.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_yol.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reminder_main.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_reminder_main.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_diab1_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_diab1_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_yol.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_yol.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_predict.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_predict.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_message_sms_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\message_sms_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_yol.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_yol.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_aboutus.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_aboutus.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_on_white_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_notifications_on_white_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_diab_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_diab_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type_1and_2.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\type_1and_2.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diabetepreview.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\diabetepreview.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smiling.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\smiling.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_trending_down_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_trending_down_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_yol_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_yol_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_message_sms_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\message_sms_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_sms_foreground.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\message_sms_foreground.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yol.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\yol.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_off_grey600_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_notifications_off_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alarm.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_alarm.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_logo.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_splash_logo.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_graph.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_app.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_app.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_trending_up_black_48dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\outline_trending_up_black_48dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twit.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\twit.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_yol_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_yol_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_white_24dp.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_check_white_24dp.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_addreminder.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\addreminder.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_yol_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_yol_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_diab_foreground.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_diab_foreground.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_diab.png.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_diab.png"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_1.xml.flat",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_login_1.xml"
+    }
+]

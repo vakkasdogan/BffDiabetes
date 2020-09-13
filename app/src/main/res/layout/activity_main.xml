@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gainsboro"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="225dp"
+        android:layout_height="206dp"
+        android:layout_below="@+id/baslik"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/diabetepreview" />
+
+    <TextView
+        android:id="@+id/baslik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:text="@string/app_name"
+        android:textColor="@color/colorPrimary"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/alreadyAccount"
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/newaccount"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/mybutton"
+        android:text="@string/member"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/newaccount"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="215dp"
+        android:background="@drawable/mybuton2"
+        android:text="@string/create_new_account1"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:onClick="face1"
+            android:src="@drawable/face" />
+
+        <ImageButton
+            android:layout_width="51dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:onClick="insta1"
+            android:src="@drawable/insta" />
+
+        <ImageButton
+            android:layout_width="47dp"
+            android:layout_height="52dp"
+            android:layout_marginRight="10dp"
+            android:onClick="twit1"
+            android:src="@drawable/twit" />
+    </LinearLayout>
+
+
+</RelativeLayout>

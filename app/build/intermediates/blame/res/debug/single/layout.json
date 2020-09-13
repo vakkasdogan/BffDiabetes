@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register_1.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_register_1.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_predict_state.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_predict_state.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reminder_main.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_reminder_main.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_confirmpassword.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_confirmpassword.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alarm_items.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\alarm_items.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_current_state.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_current_state.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgotpassword.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_alarm.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_main_alarm.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragmentabout_us.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragmentabout_us.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_1.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_login_1.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_app.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_app.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\actionbar_app.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\actionbar_app.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about_diabetes.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\about_diabetes.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_logo.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_splash_logo.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\addreminder.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\addreminder.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_graph.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chat.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\vakkas dogan\\android_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\vakkas dogan\\android_app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]

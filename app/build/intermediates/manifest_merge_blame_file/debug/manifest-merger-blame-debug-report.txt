@@ -1,0 +1,330 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="com.example.bffdiabetes"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:7:5-40
+12-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:7:18-37
+13
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:9:5-68
+14-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:9:22-65
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:10:5-77
+15-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:10:22-74
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:11:5-67
+16-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\90eb1c87fd35ba6ed054e59a75813be9\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
+17-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\90eb1c87fd35ba6ed054e59a75813be9\jetified-core-10.0.5\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.VIBRATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+18-->[com.wdullaer:materialdatetimepicker:1.2.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\49665c3d26a28a89a124b1429bde63d1\jetified-materialdatetimepicker-1.2.1\AndroidManifest.xml:26:5-66
+18-->[com.wdullaer:materialdatetimepicker:1.2.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\49665c3d26a28a89a124b1429bde63d1\jetified-materialdatetimepicker-1.2.1\AndroidManifest.xml:26:22-63
+19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+19-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+19-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+20    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+20-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:26:5-110
+20-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:26:22-107
+21
+22    <application
+22-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:13:5-85:19
+23        android:name="com.example.bffdiabetes.App"
+23-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:14:9-28
+24        android:allowBackup="true"
+24-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:15:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.2.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\b8d4f275bec3f3edcbb739dc4dc6c4e8\core-1.2.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_diab"
+27-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:16:9-39
+28        android:label="@string/app_name"
+28-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:17:9-41
+29        android:roundIcon="@mipmap/ic_diab_round"
+29-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:18:9-50
+30        android:supportsRtl="true"
+30-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:19:9-35
+31        android:testOnly="true"
+32        android:theme="@style/NoAppTheme" >
+32-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:20:9-42
+33        <activity
+33-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:22:9-23:58
+34            android:name="com.example.bffdiabetes.Main2Activity"
+34-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:22:19-48
+35            android:theme="@style/AppTheme.NoActionBar" />
+35-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:23:13-56
+36        <activity
+36-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:24:9-26:59
+37            android:name="com.example.bffdiabetes.HomeActivity"
+37-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:25:13-41
+38            android:theme="@style/AppTheme.NoActionBar" />
+38-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:26:13-56
+39        <activity
+39-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:28:9-30:49
+40            android:name="com.example.bffdiabetes.Diabetes_org"
+40-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:29:13-41
+41            android:theme="@style/NoAppTheme" />
+41-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:30:13-46
+42        <activity
+42-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:31:9-33:49
+43            android:name="com.example.bffdiabetes.MainAlarmActivity"
+43-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:32:13-46
+44            android:theme="@style/NoAppTheme" />
+44-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:33:13-46
+45        <activity
+45-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:34:9-36:47
+46            android:name="com.example.bffdiabetes.MainReminderActivity"
+46-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:35:13-49
+47            android:theme="@style/AppTheme" />
+47-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:36:13-44
+48        <activity android:name="com.example.bffdiabetes.App" />
+48-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:37:9-41
+48-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:37:19-38
+49        <activity android:name="com.example.bffdiabetes.MainActivity" />
+49-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:38:9-50
+49-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:38:19-47
+50        <activity android:name="com.example.bffdiabetes.activities.LoginActivityNew" />
+50-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:39:9-65
+50-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:39:19-62
+51        <activity
+51-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:40:9-43:49
+52            android:name="com.example.bffdiabetes.GraphViewActivity"
+52-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:41:13-46
+53            android:parentActivityName="com.example.bffdiabetes.WelcomeActivity"
+53-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:42:13-58
+54            android:theme="@style/NoAppTheme" />
+54-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:43:13-46
+55        <activity
+55-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:44:9-47:49
+56            android:name="com.example.bffdiabetes.CurrentStateActivity"
+56-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:45:13-49
+57            android:parentActivityName="com.example.bffdiabetes.GraphViewActivity"
+57-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:46:13-60
+58            android:theme="@style/NoAppTheme" />
+58-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:47:13-46
+59        <activity
+59-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:48:9-51:49
+60            android:name="com.example.bffdiabetes.PredictStateActivity"
+60-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:49:13-49
+61            android:parentActivityName="com.example.bffdiabetes.GraphViewActivity"
+61-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:50:13-60
+62            android:theme="@style/NoAppTheme" />
+62-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:51:13-46
+63        <activity
+63-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:52:9-54:49
+64            android:name="com.example.bffdiabetes.WelcomeActivity"
+64-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:53:13-44
+65            android:theme="@style/NoAppTheme" />
+65-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:54:13-46
+66        <activity
+66-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:55:9-63:20
+67            android:name="com.example.bffdiabetes.splash_logo"
+67-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:55:19-46
+68            android:theme="@style/AppTheme.NoActionBar" >
+68-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:56:13-56
+69            <intent-filter>
+69-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:58:13-62:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:59:17-69
+70-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:59:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:61:17-77
+72-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:61:27-74
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:64:9-67:14
+76            android:name="com.example.bffdiabetes.activities.RegisterActivityNew"
+76-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:65:13-59
+77            android:screenOrientation="fullSensor" />
+77-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:66:13-51
+78        <activity
+78-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:68:9-70:54
+79            android:name="com.example.bffdiabetes.activities.ForgotPassword"
+79-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:69:13-54
+80            android:screenOrientation="fullSensor" />
+80-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:70:13-51
+81        <activity
+81-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:71:9-73:54
+82            android:name="com.example.bffdiabetes.activities.ConfirmPassword"
+82-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:72:13-55
+83            android:screenOrientation="fullSensor" />
+83-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:73:13-51
+84
+85        <receiver android:name="com.example.bffdiabetes.AlertReceiver" />
+85-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:75:9-51
+85-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:75:19-48
+86
+87        <provider
+87-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:77:9-80:40
+88            android:name="com.example.bffdiabetes.data.AlarmReminderProvider"
+88-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:78:13-55
+89            android:authorities="com.example.bffdiabetes"
+89-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:79:13-58
+90            android:exported="false" />
+90-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:80:13-37
+91
+92        <service
+92-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:82:9-84:40
+93            android:name="com.example.bffdiabetes.reminder.ReminderAlarmService"
+93-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:83:13-58
+94            android:exported="false" />
+94-->D:\vakkas dogan\android_app\app\src\main\AndroidManifest.xml:84:13-37
+95
+96        <activity
+96-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+97            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+97-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+98            android:excludeFromRecents="true"
+98-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+99            android:exported="true"
+99-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+100            android:launchMode="singleTask"
+100-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+101            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+101-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+102            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+102-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+103
+104        <service
+104-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+105            android:name="com.google.firebase.components.ComponentDiscoveryService"
+105-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
+106            android:directBootAware="true"
+106-->[com.google.firebase:firebase-common:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+107            android:exported="false" >
+107-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
+108            <meta-data
+108-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+109                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+109-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+111            <meta-data
+111-->[com.google.firebase:firebase-database:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\68daaa45a96260f0a49fe3b596bb1ba7\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+112                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+112-->[com.google.firebase:firebase-database:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\68daaa45a96260f0a49fe3b596bb1ba7\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+113                android:value="com.google.firebase.components.ComponentRegistrar" />
+113-->[com.google.firebase:firebase-database:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\68daaa45a96260f0a49fe3b596bb1ba7\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+114            <meta-data
+114-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\31e13185eecd8a7a6e5fd7a813fe14cc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:20:13-22:85
+115                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+115-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\31e13185eecd8a7a6e5fd7a813fe14cc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:21:17-111
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\31e13185eecd8a7a6e5fd7a813fe14cc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:22:17-82
+117            <meta-data
+117-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\ac71c40bdeaa326930cd73e2310287d2\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:30:13-32:85
+118                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+118-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\ac71c40bdeaa326930cd73e2310287d2\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:31:17-139
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\ac71c40bdeaa326930cd73e2310287d2\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:32:17-82
+120            <meta-data
+120-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+121                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+121-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+123            <meta-data
+123-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\a10816b9c03b948f6ceac3bfc820853e\jetified-firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+124                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+124-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\a10816b9c03b948f6ceac3bfc820853e\jetified-firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\a10816b9c03b948f6ceac3bfc820853e\jetified-firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+126        </service>
+127
+128        <receiver
+128-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+129            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+129-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+130            android:exported="true"
+130-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+131            android:permission="com.google.android.c2dm.permission.SEND" >
+131-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+132            <intent-filter>
+132-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+133                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+133-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+133-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+134            </intent-filter>
+135        </receiver>
+136
+137        <activity
+137-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+138            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+138-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+139            android:exported="false"
+139-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+140            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+140-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+141
+142        <receiver
+142-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:29:9-33:20
+143            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+143-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:30:13-85
+144            android:enabled="true"
+144-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:31:13-35
+145            android:exported="false" >
+145-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:32:13-37
+146        </receiver>
+147
+148        <service
+148-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:35:9-38:40
+149            android:name="com.google.android.gms.measurement.AppMeasurementService"
+149-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:36:13-84
+150            android:enabled="true"
+150-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:37:13-35
+151            android:exported="false" />
+151-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:38:13-37
+152        <service
+152-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:39:9-43:72
+153            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+153-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:40:13-87
+154            android:enabled="true"
+154-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:41:13-35
+155            android:exported="false"
+155-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:42:13-37
+156            android:permission="android.permission.BIND_JOB_SERVICE" />
+156-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\84979bacbaa6e4c81fe7f6caea0b1679\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:43:13-69
+157
+158        <provider
+158-->[com.google.firebase:firebase-common:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+159            android:name="com.google.firebase.provider.FirebaseInitProvider"
+159-->[com.google.firebase:firebase-common:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+160            android:authorities="com.example.bffdiabetes.firebaseinitprovider"
+160-->[com.google.firebase:firebase-common:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+161            android:exported="false"
+161-->[com.google.firebase:firebase-common:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+162            android:initOrder="100" />
+162-->[com.google.firebase:firebase-common:19.3.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+163
+164        <meta-data
+164-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+165            android:name="com.google.android.gms.version"
+165-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+166            android:value="@integer/google_play_services_version" />
+166-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+167
+168        <provider
+168-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+169            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+169-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+170            android:authorities="com.example.bffdiabetes.lifecycle-process"
+170-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+171            android:exported="false"
+171-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+172            android:multiprocess="true" />
+172-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\VK\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+173    </application>
+174
+175</manifest>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nestedScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/login"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".activities.LoginActivityNew">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/ilklayout">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/splash_logo" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/textInputLayoutEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#000"
+            android:layout_marginTop="40dp" >
+
+            <com.google.android.material.textfield.TextInputEditText                android:id="@+id/textInputEditTextEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_email"
+                android:inputType="text"
+                android:textSize="28sp"
+                android:maxLines="1"
+                android:textColor="@color/colorText" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/textInputLayoutPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#000"
+            android:layout_marginTop="20dp" >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/textInputEditTextPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_password"
+                android:inputType="textPassword"
+                android:textSize="28sp"
+                android:maxLines="1"
+                android:textColor="@color/colorText" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/appCompatButtonLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:textSize="28sp"
+            android:textColor="@color/colorText"
+            android:background="@color/colorTextHint"
+            android:text="@string/text_login" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textViewLinkRegister"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="@string/text_not_member"
+            android:textSize="28sp"
+            android:textColor="@color/colorText" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/forgotPassword"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="@string/forgot_password"
+            android:textSize="28sp"
+            android:textColor="@color/colorText" />
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+
+</androidx.core.widget.NestedScrollView>
+<!-- <LinearLayout-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_alignParentBottom="true"-->
+<!--    android:layout_marginBottom="5dp"-->
+<!--    android:gravity="center"-->
+<!--    android:orientation="horizontal">-->
+<!--    -->
+<!--    -->
+<!--    <ImageButton-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_marginRight="10dp"-->
+<!--        android:onClick="face1"-->
+<!--        android:src="@drawable/face" />-->
+<!--    -->
+<!--    <ImageButton-->
+<!--        android:layout_width="51dp"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_marginRight="10dp"-->
+<!--        android:onClick="insta1"-->
+<!--        android:src="@drawable/insta" />-->
+<!--    -->
+<!--    <ImageButton-->
+<!--        android:layout_width="47dp"-->
+<!--        android:layout_height="52dp"-->
+<!--        android:layout_marginRight="10dp"-->
+<!--        android:onClick="twit1"-->
+<!--        android:src="@drawable/twit" />-->
+<!--</LinearLayout>-->
+
+<!--<androidx.appcompat.widget.LinearLayoutCompat-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="100dp"-->
+<!--    android:layout_alignParentBottom="true"-->
+<!--    android:layout_marginBottom="5dp"-->
+<!--    android:gravity="center"-->
+<!--    android:layout_marginTop="50dp"-->
+<!--    android:orientation="horizontal">-->
+<!--    -->
+<!--    -->
+<!--    <androidx.appcompat.widget.AppCompatImageButton-->
+<!--        android:id="@+id/face"-->
+<!--        android:layout_width="50dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginEnd="10dp"-->
+<!--        android:background=""-->
+<!--        android:onClick="face1"-->
+<!--        android:src="@drawable/face"-->
+<!--        tools:ignore="OnClick" />-->
+<!--    -->
+<!--    <androidx.appcompat.widget.AppCompatImageButton-->
+<!--        android:id="@+id/insta"-->
+<!--        android:layout_width="51dp"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_marginEnd="10dp"-->
+<!--        android:background=""-->
+<!--        android:onClick="insta1"-->
+<!--        android:src="@drawable/insta"-->
+<!--        tools:ignore="OnClick" />-->
+<!--    -->
+<!--    <androidx.appcompat.widget.AppCompatImageButton-->
+<!--        android:layout_width="47dp"-->
+<!--        android:layout_height="52dp"-->
+<!--        android:id="@+id/tweet"-->
+<!--        android:layout_marginEnd="10dp"-->
+<!--        android:background=""-->
+<!--        android:onClick="twit1"-->
+<!--        android:src="@drawable/twit"-->
+<!--        tools:ignore="OnClick" />-->
+<!--</androidx.appcompat.widget.LinearLayoutCompat>-->

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202626551912",
+    "firebase_url": "https://bffdiabetes.firebaseio.com",
+    "project_id": "bffdiabetes",
+    "storage_bucket": "bffdiabetes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202626551912:android:6942a66d27f7b468062bdd",
+        "android_client_info": {
+          "package_name": "com.example.bffdiabetes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202626551912-ssic9rgi4ebk6lh7831atqcj826o510m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bffdiabetes",
+            "certificate_hash": "2c37b6b545faca9f1bb5a51bb35b349af24f1e4c"
+          }
+        },
+        {
+          "client_id": "202626551912-qbimmq5sqvbvaksaqev8m4fo6ns5t03i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjmVYygGGpLYhrqoUmij5r2xk-UgYfFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202626551912-qbimmq5sqvbvaksaqev8m4fo6ns5t03i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

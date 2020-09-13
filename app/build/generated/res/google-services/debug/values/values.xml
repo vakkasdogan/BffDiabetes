@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">202626551912-qbimmq5sqvbvaksaqev8m4fo6ns5t03i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bffdiabetes.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">202626551912</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpjmVYygGGpLYhrqoUmij5r2xk-UgYfFs</string>
+    <string name="google_app_id" translatable="false">1:202626551912:android:6942a66d27f7b468062bdd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpjmVYygGGpLYhrqoUmij5r2xk-UgYfFs</string>
+    <string name="google_storage_bucket" translatable="false">bffdiabetes.appspot.com</string>
+    <string name="project_id" translatable="false">bffdiabetes</string>
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BffDiabetes</string>
+    <string name="message">Home</string>
+    <string name="chat">About BffDiabetes App</string>
+    <string name="alarm">Alarm Manager</string>
+    <string name="profile">Current State</string>
+    <string name="predict">Prediction State</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Follow Us</string>
+    <string name="email">Inform Us</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="next_page">next page</string>
+    <string name="home" >Home</string>
+    <string name="aboutus" >Other Applications</string>
+    <string name="inform" >Your current blood sugar value seems dangerous.Please take your medicine…</string>
+
+    <string name="anabaslik">Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high.
+        Blood glucose is your main source of energy and comes from the food you eat.
+        Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
+        Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well.
+        Glucose then stays in your blood and doesn’t reach your cells.</string>
+    <string name="current_state">Current State</string>
+    <string name="alarmbutonu">alarm</string>
+    <string name="graphical_view">GRAPHICAL VIEW</string>
+    <string name="blood_glucose_real_graph">Blood Glucose Real Graph</string>
+    <string name="blood_glucose_prediction_graph">Blood Glucose Prediction Graph</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_email" tools:ignore="DuplicateDefinition">Enter Email</string>
+    <string name="enter_password" tools:ignore="DuplicateDefinition">Enter Password</string>
+    <string name="log_n">Logın</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="member">member</string>
+    <string name="create_new_account1">CREATE NEW ACCOUNT</string>
+    <string name="no_alarm_set">No Alarm set</string>
+    <string name="open_t_me_p_cker">open tıme pıcker</string>
+    <string name="cancel_alarm">cancel alarm</string>
+    <string name="predicted_state">Predicted State</string>
+    <string name="create_new_account2">Create New Account</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email1">Enter Email</string>
+    <string name="enter_password1">Enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_n_w_th_your_account">logın wıth your account</string>
+    <string name="bff">#Bff</string>
+    <string name="current">CURRENT</string>
+    <string name="predicted">PREDICTED</string>
+    <string name="prediction_flow_chart">Prediction Flow Chart</string>
+    <string name="deta_led_informat_on">Detaıled Informatıon</string>
+    <string name="what_is_the_bffdiabetes_app">What is the BffDiabetes App?</string>
+    <string name="diabetes_yazı">Diabetes mellitus is a widespread disease that causes the emergence of many deadly diseases.\n\n Hyperglycemia (high blood glucose) and hypoglycemia (low blood glucose) are critical stages for diabetes as they may cause malfunctioning in the human body.\n\n In this study, we propose to employ a recurrent neural network (RNN) for blood glucose prediction of next time steps to let diabetes patients take action before the glucose level reaches the critical stages. \n\n The proposed RNN includes two subsequent Long-Short Term Memory models with two fully attached layers to improve the prediction accuracy. This network was later integrated with our custom-design Android application capable of reading the blood glucose from the sensors via Bluetooth. \n\n The application sends the blood glucose level to the server via a cloud system to predict the next glucose level for the patient.\n\n The prediction result comes back to the Android application via the cloud system to evaluate whether the blood glucose level has a tendency to reach the critical stages. In case of this tendency is detected, the application alerts the patient for necessary precautions. Real data collected from diabetes patients were used to train the proposed network and experimental results show that prediction for the next time step can be predicted with the error less than 3.72 mg/dl which corresponds to 95.6% accuracy.\n\n In addition, a comparison was made with a traditional neural network and the proposed network outperformed in terms of accuracy.</string>
+    <string name="what_is_diabetes">What is Diabetes?</string>
+    <string name="whatisthediabates">Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high.\n\nBlood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. \n\nSometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells.</string>
+    <string name="whatarethetypes">What are the different types of diabetes?</string>
+    <string name="themosttypes">The most common types of diabetes are type 1, type 2, and gestational diabetes.</string>
+    <string name="type_1_diabetes">Type 1 diabetes</string>
+    <string name="type1yazı">If you have type 1 diabetes, your body does not make insulin. Your immune system attacks and destroys the cells in your pancreas that make insulin. Type 1 diabetes is usually diagnosed in children and young adults, although it can appear at any age. People with type 1 diabetes need to take insulin every day to stay alive.</string>
+    <string name="type_2_diabetes">Type 2 diabetes</string>
+    <string name="type2yazı">If you have type 2 diabetes, your body does not make or use insulin well. You can develop type 2 diabetes at any age, even during childhood. However, this type of diabetes occurs most often in middle-aged and older people. Type 2 is the most common type of diabetes.</string>
+    <string name="how_common_is_diabetes">How common is diabetes?</string>
+    <string name="commondiabetes">As of 2015, 30.3 million people in the United States, or 9.4 percent of the population, had diabetes. More than 1 in 4 of them didn’t know they had the disease. Diabetes affects 1 in 4 people over the age of 65. About 90-95 percent of cases in adults are type 2 diabetes.1</string>
+    <string name="what_are_the_symptoms_of_diabetes">What are the symptoms of diabetes?</string>
+    <string name="syptomps">Symptoms of diabetes include:\n \n increased thirst and urination\n \n increased hunger\n \n fatigue\n \n blurred vision\n \n numbness or tingling in the feet or hands\n \n sores that do not heal\n \n unexplained weight loss\n \nSymptoms of type 1 diabetes can start quickly, in a matter of weeks. Symptoms of type 2 diabetes often develop slowly—over the course of several years—and can be so mild that you might not even notice them. Many people with type 2 diabetes have no symptoms. Some people do not find out they have the disease until they have diabetes-related health problems, such as blurred vision or heart trouble.</string>
+    <string name="page_under_construction">Page Under Construction</string>
+    <string name="bffdiabetes">BffDiabetes</string>
+    <string name="vkksdgn2_gmail_com">vkksdgn2@gmail.com</string>
+    <string name="dangerous">\nYour current blood sugar value seems dangerous.\n Please take your medicine...\n\n</string>
+    <string name="increasing">\nYour current blood sugar value is increasing.\n Please be careful...\n\n</string>
+    <string name="dereasing">\nYour current blood sugar value is decreasing.\n Please be careful...\n\n</string>
+    <string name="normal">NORMAL</string>
+    <string name="normal_yazi">\nYour current blood sugar value seems normal.\n\n</string>
+    <string name="dangerosly">Dangerous</string>
+    <string name="becareful">Be Carefull</string>
+    <string name="buyukbaslik">Big Content Title</string>
+    <string name="ozet">Summary Text</string>
+    <string name="diabetes">DIABETES</string>
+    <string name="errror">login is Error!!!</string>
+    <string name="succesfull">login Successful...</string>
+    <string name="login_bar">Login</string>
+    <string name="email_field">The email field cannot be empty!</string>
+    <string name="password_field">The password field cannot be empty!</string>
+    <string name="CREATE_BAR">Create Account</string>
+    <string name="glucose_prediction">glucose prediction</string>
+    <string name="glucose_real">\"glucose real \"</string>
+    <string name="butonisclicked">Button is Clicked</string>
+    <string name="news">Diabetes.org</string>
+    <string name="change_language">CHANGE LANGUAGE</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Regıster</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_member">Already a member? Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+</resources>
